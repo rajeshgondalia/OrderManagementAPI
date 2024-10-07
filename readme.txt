@@ -9,3 +9,5 @@ https://localhost:7109/swagger/index.html
 
 
 Database Name : OrderManagementDB
+
+Please open project Visual Studio 2022
